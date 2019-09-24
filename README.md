@@ -26,7 +26,7 @@ python3 pyapibinaryegde.py ip.txt
  This script interactues with the binaryedge's API to obtain the ports opened of a network address. The result by default is exported in xlsx format
 
 				Example of usage: python3 pyapibinaryegde.py ip.txt
-212.166.190.52
+212.1XX.XX.52
 443
 80
 194.22X.XX.XX
